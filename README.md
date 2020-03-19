@@ -9,3 +9,6 @@
 *This is Italic text*
 
 ~~~~This is a mistake~~~~
+
+
+**This text is _extremely_ important**
