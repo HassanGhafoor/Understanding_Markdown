@@ -4,5 +4,6 @@
 
 ###### Smallest heading
 
-** This is bold text **
+**This is bold text**
+
 *This is Italic text*
