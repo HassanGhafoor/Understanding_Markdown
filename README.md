@@ -15,4 +15,4 @@ In the words of Hassan
 
 > Work and Play
 
-'git push'
+`git push`
