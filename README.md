@@ -8,7 +8,7 @@
 
 *This is Italic text*
 
-~~~~This is a mistake~~~~
+
 
 
 In the words of Hassan
